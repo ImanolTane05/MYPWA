@@ -9,8 +9,8 @@ const { cache } = require("react");
 //1. Nombre del cache y archivos a cachear 
 const CACHE_NAME = 'mi-cache-v1';
 const urlsToCache = [
-    "index.html",
-    "offline.html"
+    "MYPWA/index.html",
+    "MYWA/offline.html"
 ];
 
 //2. INSTALL -> se ejecuta al instalar el SW
